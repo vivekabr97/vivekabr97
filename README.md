@@ -6,9 +6,11 @@ Applied AI | Sensor Technology | Photonics | Computer Vision
 
 
 Professional Summary
+
 Results-driven AI researcher specializing in Applied Artificial Intelligence, with a focus on sensor
 technology and photonics-based systems. Experienced in building models that bridge synthetic and
-real-world data. Achieved significant improvements in model performance including high recall
+real-world data. 
+Achieved significant improvements in model performance including high recall
 optimization.
 
 
