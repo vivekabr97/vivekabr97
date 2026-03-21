@@ -16,11 +16,16 @@ optimization.
 Key Project Highlight
 
 Synthetic Data-Driven Computer Vision Model
+
 Developed a computer vision model trained on synthetic data that generalizes to real-world
 environments.
+
 Problem: Domain mismatch between synthetic and real-world data.
+
 Solution: Applied preprocessing, feature engineering, and optimization techniques.
+
 Achievement: Achieved 84% recall on real-world data.
+
 Impact: Strong application in sensor technology and photonics systems.
 
 
