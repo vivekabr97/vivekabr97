@@ -30,11 +30,15 @@ Impact: Strong application in sensor technology and photonics systems.
 
 
 Additional Projects
+
 • AI-Based Sensor Data Analysis
+
 • Machine Learning Model Optimization
+
 • R&D; in Intelligent Systems
 
 Technical Skills
+
 Applied AI, Machine Learning, Computer Vision, Sensor Data Processing, Photonics, Python
 Tools
 Python, TensorFlow, PyTorch, OpenCV, NumPy, Pandas
